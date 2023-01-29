@@ -1,0 +1,17 @@
+[
+	//deco[1].name/sentence
+	{
+		"price": 2000,
+		"name": "제빵 대회 트로피",
+		"image": "Content/images/trophy.png",
+		"sentence" : "제빵 대회에서 아무개가 탄 트로피\n구입한다면 있어보일거다.\n",
+		"image2": "Content/images/trophy.png",
+	},
+	{
+		"price": 2000,
+		"name": "빵 인형",
+		"image": "Content/images/bitedBread.png",
+		"sentence" : "빵인가? 아니다 솜인형이다.\n빵인줄 알고 누군가 한입 베어 문 것 같다.\n",
+		"image2": "Content/images/bitedBread.png",
+	}
+]

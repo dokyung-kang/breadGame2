@@ -1,0 +1,86 @@
+[
+	{
+		"type" : "background",
+		"img" : "Content/images/인트로/face_smile.png"
+	},
+	{
+		"type" : "bubble",
+		"img" : "Content/images/인트로/bubble.png"
+	},
+	{
+		"type" : "Narration",
+		"content" : "안녕하세요.\n저는 빵집 1개월차 알바생\n야옹이랍니다."
+	},
+	{
+		"type" : "Narration",
+		"content" : "일을 시작하면 월급으로\n 이것저것 사고싶은 것을 잔뜩 사는\n 즐거운 생활이 펼쳐질 줄 알았는데..."
+	},
+	{
+		"type" : "background",
+		"img" : "Content/images/인트로/face_sad.png"
+	},
+	{
+		"type" : "Narration",
+		"content" : "주휴수당도 못받는 알바생 월급으로는\n고등어 한 마리 사서 먹기도\n빠듯하더라구요..."
+	},
+	{
+		"type" : "Narration",
+		"content" : "이 차가운 현실이란.."
+	},
+	{
+		"type" : "Narration",
+		"content" : "그래서 저는 결정했습니다."
+	},
+	{
+		"type" : "background",
+		"img" : "Content/images/인트로/face_love.png"
+	},
+	{
+		"type" : "Narration",
+		"content" : "정직원이 되기로!!!!!"
+	},
+	{
+		"type" : "Narration",
+		"content" : "월급은 알바생의 5배!!"
+	},
+	{
+		"type" : "Narration",
+		"content" : "한 달에 한 번씩 주어지는 유급휴가!!"
+	},
+	{
+		"type" : "Narration",
+		"content" : "경조사 시에는 고등어 세트 지급!!"
+	},
+	{
+		"type" : "Narration",
+		"content" : "저는 꼭 정직원이 되어서\n 이 모든 복지를 챙겨가고 말 겁니다!!"
+	},
+	{
+		"type" : "background",
+		"img" : "Content/images/인트로/face_smile.png"
+	},
+	{
+		"type" : "Narration",
+		"content" : "정직원이 되기 위해서는\n 한 가지 조건이 있어요."
+	},
+	{
+		"type" : "Narration",
+		"content" : "그건 바로 가게의 모든 숨겨진 레시피를\n 찾아내서 마스터 하는 것이에요."
+	},
+	{
+		"type" : "Narration",
+		"content" : "조금 힘들 수도 있겠지만 여러분과 함께라면\n 금방 해낼 수 있을거에요!"
+	},
+	{
+		"type" : "Narration",
+		"content" : "도와주실거죠?!"
+	},
+	{
+		"type" : "background",
+		"img" : "Content/images/인트로/face_love.png"
+	},
+	{
+		"type" : "Narration",
+		"content" : "그럼 정직원이 되기 위해서\n 열심히 빵을 구워볼까요?!"
+	}
+]

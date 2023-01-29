@@ -1,0 +1,34 @@
+[
+	{
+		"type" : "background",
+		"img" : "Content/images/아웃트로/face_smile.png"
+	},
+	{
+		"type" : "bubble",
+		"img" : "Content/images/아웃트로/bubble.png"
+	},
+	{
+		"type" : "Narration",
+		"content" : "드디어!!\n모든 레시피를 마스터했어요!!"
+	},
+	{
+		"type" : "background",
+		"img" : "Content/images/아웃트로/face_love.png"
+	},
+	{
+		"type" : "Narration",
+		"content" : "이제 저는 정직원이에요!\n월급도 많아지고, 유급휴가도 생겼으니\n따뜻한 곳으로 여행가서\n 맛있는 생선들을 잔뜩 먹을거예요."
+	},
+	{
+		"type" : "Narration",
+		"content" : "새로 사귄 귀여운 빵 친구들도\n 함께 가면 좋겠네요."
+	},
+	{
+		"type" : "background",
+		"img" : "Content/images/아웃트로/face_smile.png"
+	},
+	{
+		"type" : "Narration",
+		"content" : "지금까지 도와줘서 고마웠어요!\n기회가 되면 다른 곳에서 또 만나요~!"
+	}
+]

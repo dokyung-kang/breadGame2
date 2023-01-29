@@ -1,0 +1,71 @@
+[
+	//ingredient[1].name/sentence
+	{
+		"price": 100,
+		"name": "기본 카펫",
+		"image": "Content/images/carpet2.png",
+		"sentence" : "기본무늬다.\n때로는 기본이 제일이다.",
+		"image2": "Content/images/carpet.png"
+	},
+	{
+		"price": 1000,
+		"name": "심플 화이트 카펫",
+		"image": "Content/images/carpet_white2.png",
+		"sentence" : "아이보리랑 헷갈릴 수 있지만\n화이트파가 선호하는 벽지.",
+		"image2": "Content/images/carpet_white.png"
+	},
+	{
+		"price": 1000,
+		"name": "심플 아이보리 카펫",
+		"image": "Content/images/carpet_ivory2.png",
+		"sentence" : "카펫 청소를 안해도\n화이트보다 티가 나지 않는다.\n",
+		"image2": "Content/images/carpet_ivory.png"
+	},	
+	{
+		"price": 1000,
+		"name": "나무무늬 카펫",
+		"image": "Content/images/carpet_tree2.png",
+		"sentence" : "나무향이 난다.\n주의: 딱따구리가 나무로 착각해서 \n쪼을 수 있다.",
+		"image2": "Content/images/carpet_tree.png"
+	},
+	// 업적 보상
+	{
+		"price": 0,
+		"name": "빅토리아풍 카펫",
+		"image": "Content/images/carpet_vic2.png",
+		"sentence" : "빅토리아풍 카펫이다.\n화려함에 빠져들 것 같다.",
+		"image2": "Content/images/carpet_vic.png"
+	},
+	{
+		"price": 0,
+		"name": "폭탄모양 카펫",
+		"image": "Content/images/carpet_bomb2.png",
+		"sentence" : "폭탄처럼 생겼다.\n잘못하면 터질 것 같다.",
+		"image2": "Content/images/carpet_bomb.png"
+	}
+	/*,
+	{
+		"price": 600,
+		"name": "고급 벽돌무늬 카펫",
+		"image": "Content/images/syrup.png",
+		"sentence" : "레드계열의 벽돌이다.\n감성카페에서 볼 법한 트랜디한 벽지다."
+	},	
+	{
+		"price": 1000,
+		"name": "목화 솜 카펫",
+		"image": "Content/images/syrup.png",
+		"sentence" : "그림만 목화가 아니다.\n촉감마저 폭신폭신한 이 벽지\n탐날 수 밖에 없다."
+	},
+	{
+		"price": 1500,
+		"name": "화사한 민들레 카펫",
+		"image": "Content/images/syrup.png",
+		"sentence" : "형광등을 켠 듯한 화사함이다.\n벽지 촉감은 민들민들하다."
+	},
+	{
+		"price": 1500,
+		"name": "사각 체크 카펫",
+		"image": "Content/images/syrup.png",
+		"sentence" : "흰색과 갈색의 무늬가 쓰인\n 무늬벽지이다.\n "
+	}*/
+]

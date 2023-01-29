@@ -1,0 +1,80 @@
+[
+	//ingredient[1].name/sentence
+	{
+		//"cnt" : 0,
+		"price" : 0,
+		"name" : "반죽",
+		"image" : "Content/images/dough_small.png",
+		"sentence" : "(상점에서 구매하지 않아도\n 기본 세팅되어 있습니다!\n 여기 구매는 막아놨습니다.)"
+	},
+	{
+		//"cnt" : 0,
+		"price": 500,
+		"name": "초코 시럽",
+		"image": "Content/image/choco_syrup.png",
+		"sentence" : "초콜렛을 진하게 녹인 시럽.\n(반죽에 넣으면\n 향긋한 초코맛이 난다.)"
+	},
+	{
+		//"cnt" : 0,
+		"price": 500,
+		"name": "딸기 시럽",
+		"image": "Content/image/strawberry_syrup.png",
+		"sentence" : "싱싱한 딸기를 갈아 만든 시럽.\n(반죽에 넣으면\n 새콤달콤한 딸기 맛이 난다.)"
+	},
+	{
+		//"cnt" : 0,
+		"price": 500,
+		"name": "바닐라 시럽",
+		"image": "Content/image/vanilla_syrup.png",
+		"sentence" : "부드러운 커스터드 크림과\n 신선한 생크림을 섞은 것.\n(빵 반죽과 최고로 잘 어울린다.)"
+	},
+	{
+		//"cnt" : 0,
+		"price": 1500,
+		"name": "반짝이",
+		"image": "Content/image/glitter.png",
+		"sentence" : "의문의 부재료.\n(반죽에 넣으면\n 더 고급스럽고 맛있어진다.)"
+	},
+	{
+		//"cnt" : 0,
+		"price": 1200,
+		"name": "소세지",
+		"image": "Content/image/sausage.png",
+		"sentence" : "뽀득뽀득 식감 좋은 소세지."
+	},	
+	{
+		//"cnt" : 0,
+		"price": 800,
+		"name": "팥",
+		"image": "Content/image/bean.png",
+		"sentence" : "반죽에 넣으면 은은하고\n담백한 단 맛을 낼 수 있다."
+	},	
+	{
+		//"cnt" : 0,
+		"price": 800,
+		"name": "치즈",
+		"image": "Content/image/cheese.png",
+		"sentence" : "반죽에 넣으면 부드럽지만\n살짝 느끼한 맛을 낼 수 있다."
+	},	
+	{
+		//"cnt" : 0,
+		"price": 800,
+		"name": "옥수수",
+		"image": "Content/image/corn.png",
+		"sentence" : "반죽에 넣으면 고소한 단 맛이 나며\n식감 또한 재미있어 진다."
+	},	
+	{
+		//"cnt" : 0,
+		"price": 1200,
+		"name": "오레오가루",
+		"image": "Content/image/oreopowder.png",
+		"sentence" : "반죽에 넣으면\n포슬포슬한 초코쿠키 맛을 낼 수 있다."
+	},
+	{
+		//"cnt" : 0,
+		"price": 1200,
+		"name": "슈가파우더",
+		"image": "Content/image/sugarpowder.png",
+		"sentence" : "입에 넣는 순간,\n순식간에 사르르 녹는다."
+	}
+]
