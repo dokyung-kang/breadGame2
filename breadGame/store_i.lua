@@ -3,7 +3,7 @@
 -- store_i.lua
 --
 -----------------------------------------------------------------------------------------
-
+local loadsave = require( "loadsave" )
 local json = require("json")
 
 ----------------------경험치/레벨업 보상 관련------------------
@@ -126,6 +126,14 @@ function scene:create( event )
 	local wallText = display.newImage("Content/images/text_carpet.png")
 	wallText.x, wallText.y = display.contentWidth*0.8, display.contentHeight*0.12
 	
+
+	----------저장 데이터 시도 ---------
+	local loadedSettings = loadsave.loadTable("gameData.json")		--꺼내보는중
+	loadedSettings.coinDB = loadedSettings.coinDB + 1 				--값 변하는지 확인하기 위해 값 변경해봄
+	loadsave.saveTable(loadedSettings, "gameData.json")				--다시 저장해봄
+	--local explainCoin = display.newText(loadedSettings.coinDB, display.contentWidth*0.6, display.contentHeight*0.08 ,"Content/font/ONE Mobile POP.ttf")  --값 변했는지 임시로 표시용
+	print(loadedSettings.coinDB)	--디버그로 확인해보는용..
+
 	topGroup:insert(background)
 	topGroup:insert(store)
 	topGroup:insert(storeText)

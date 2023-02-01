@@ -3,9 +3,10 @@
 -- opening.lua
 --
 -----------------------------------------------------------------------------------------
-
+local loadsave = require( "loadsave" )
 local composer = require( "composer" )
 local scene = composer.newScene()
+--local json = require( "json" ) 
 
 --사운드
 soundTable = {
@@ -173,6 +174,14 @@ function scene:create( event )
 	end
 	clickText:addEventListener("tap", start)
 	
+
+
+	---저장 데이터 시도---------------------------
+	local gameSettings = {
+		coinDB = 3000;
+	}
+	loadsave.saveTable(gameSettings, "gameData.json");
+
 
 	-----------효과음/배경음 조절----------
 
